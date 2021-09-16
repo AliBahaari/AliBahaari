@@ -1,16 +1,28 @@
-### Hi there 👋
+```
+class AliBahaari():
+    
+    def __introduceMyself__(self):
 
-<!--
-**AliBahaari/AliBahaari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+        self.fullName    = 'AliBahaari'
+        self.proficiency = 'Financial Techincal Analyst / Front-End Developer + Python / UI + UX'
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    const disclosureTarget = () => {
+
+        return (
+            {
+                <div>
+                    <h1>Passionate to Collaborate on Projects!</h1>
+                    <p>Check: https://alibahaari.github.io</p>
+                </div>
+            }
+        )
+
+    }
+````
+
+<h1>Hi! 😎, I'm Ali Bahaari</h1>
+<p align="center">
+    [![AliBahaari's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliBahaari&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliBahaari&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</p>
