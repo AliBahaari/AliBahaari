@@ -22,14 +22,15 @@ class AliBahaari():
 ````
 
 <h1 align="center">Hi! 😎, I'm Ali Bahaari</h1>
+
 <p align="center">
-<div>
     
 [![AliBahaari's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliBahaari&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+</p>
+
+<p align="center">
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliBahaari&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-</p>
     
-
+</p>
