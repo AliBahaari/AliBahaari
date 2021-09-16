@@ -23,7 +23,7 @@ class AliBahaari():
 
 <h1 align="center">Hi! 😎, I'm Ali Bahaari.</h1>
 
-[![AliBahaari's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliBahaari&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![AliBahaari's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliBahaari&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
     
