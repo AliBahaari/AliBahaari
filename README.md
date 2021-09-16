@@ -25,7 +25,12 @@ class AliBahaari():
 <p align="center">
     
 [![AliBahaari's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliBahaari&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-<br>
+
+</p>
+<p align="center">
+    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliBahaari&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
     
 </p>
+    
+
