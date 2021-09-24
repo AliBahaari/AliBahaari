@@ -11,12 +11,10 @@ class AliBahaari():
     const disclosureTarget = () => {
 
         return (
-            {
-                <div>
-                    <h1>Passionate to Collaborate on Projects!</h1>
-                    <p>Check: https://alibahaari.github.io</p>
-                </div>
-            }
+            <div>
+                <h1>Passionate to Collaborate on Projects!</h1>
+                <p>Check: https://alibahaari.github.io</p>
+            </div>
         )
 
     }
