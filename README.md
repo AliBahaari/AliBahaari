@@ -26,4 +26,8 @@ class AliBahaari():
 
 [![AliBahaari's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliBahaari&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
     
-<p align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliBahaari&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)</p>
+<p align="center">
+    
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliBahaari&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
+</p>
