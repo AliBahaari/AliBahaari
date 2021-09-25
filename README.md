@@ -27,5 +27,5 @@ class AliBahaari():
 </p>
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliBahaari&show_icons=true&theme=react" alt="AliBahaari GitHub Top Languages Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliBahaari&show_icons=true&hide_border=true&theme=react" alt="AliBahaari GitHub Top Languages Stats" />
 </p>
