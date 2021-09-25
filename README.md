@@ -22,6 +22,10 @@ class AliBahaari():
 
 <h1 align="center">Hi! 😎, I'm Ali Bahaari.</h1>
 
-[![AliBahaari's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliBahaari&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=AliBahaari&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&theme=react" alt="AliBahaari GitHub Stats" />
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliBahaari&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliBahaari&show_icons=true&hide_border=true&hide_title=true&theme=react" alt="AliBahaari GitHub Top Languages Stats" />
+</p>
