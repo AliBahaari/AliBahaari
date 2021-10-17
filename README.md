@@ -4,7 +4,7 @@ class AliBahaari():
     def __introduceMyself__(self):
 
         self.fullName    = 'AliBahaari'
-        self.proficiency = 'Financial Techincal Analyst / Front-End Developer + Python + Rust'
+        self.proficiency = 'Front-End Developer + Python + Rust / Financial Techincal Analyst'
 ```
 ```javascript
     const disclosureTarget = () => {
