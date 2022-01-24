@@ -7,10 +7,10 @@ class AliBahaari():
         self.proficiency = 'Front-End Developer + Python + Rust / Financial Techincal Analyst'
 ```
 ```javascript
-    const disclosureTarget = () => {
+    export const disclosureTarget = () => {
 
         return (
-            <div>
+            <div className='Ali-Bahaari'>
                 <h1>Passionate to Collaborate on Projects!</h1>
                 <p>Check: https://alibahaari.github.io</p>
             </div>
