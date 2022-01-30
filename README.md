@@ -3,7 +3,7 @@ class AliBahaari():
     
     def __introduceMyself__(self):
 
-        self.fullName    = 'AliBahaari'
+        self.fullName    = 'Ali Bahaari'
         self.proficiency = 'Front-End Developer + Python + Rust / Financial Techincal Analyst'
 ```
 ```javascript
