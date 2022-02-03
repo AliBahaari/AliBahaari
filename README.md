@@ -12,9 +12,9 @@ class AliBahaari():
         return (
             <div className='Ali-Bahaari'>
                 <h1>Passionate to Collaborate on Projects!</h1>
-                <p>Check: https://alibahaari.github.io</p>
+                <p>Check Out: https://alibahaari.github.io</p>
             </div>
-        )
+        );
 
     }
 ````
