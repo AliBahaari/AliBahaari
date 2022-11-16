@@ -3,7 +3,7 @@ class AliBahaari():
     
     def __introduceMyself__(self):
         self.fullName    = 'Ali Bahaari'
-        self.proficiency = 'Front-End Developer (React.js) + Python + Solidity / Financial Techincal Analyst'
+        self.proficiency = 'Front-End Developer (React.js) + Python + Solidity + Flutter / Financial Techincal Analyst'
 ```
 ```javascript
     export const disclosureTarget = () => {
