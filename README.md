@@ -8,7 +8,8 @@ class AliBahaari():
             Python + 
             Solidity + 
             Flutter / 
-            Financial Techincal Analyst'
+            Financial Techincal Analyst
+        '
 ```
 ```javascript
     export const disclosureTarget = () => {
