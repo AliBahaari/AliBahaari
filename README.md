@@ -9,7 +9,8 @@ class AliBahaari():
             Front-End Developer (React.js + Next.js) + 
             Python + 
             Solidity + 
-            Flutter / 
+            Flutter +
+            Vue.js / 
             Financial Techincal Analyst
         """
 ```
