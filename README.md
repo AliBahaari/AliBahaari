@@ -6,7 +6,7 @@ class AliBahaari():
     def __introduceMyself__(self):
         self.fullName    = 'Ali Bahaari'
         self.proficiency = """
-            Front-End Developer (React.js + Next.js + Vue.js + Nuxt.js + AngularJS) + 
+            Front-End Developer (React.js + Next.js + Vue.js) + 
             Python + 
             Solidity + 
             Flutter / 
