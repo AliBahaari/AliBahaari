@@ -10,7 +10,7 @@ class AliBahaari():
             Python + 
             Solidity + 
             Flutter / 
-            Financial Techincal Analyst
+            Financial Analyst (Elliott + MRM + Ichimoku)
         """
 ```
 ```javascript
