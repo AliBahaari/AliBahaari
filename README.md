@@ -8,8 +8,6 @@ class AliBahaari():
         self.proficiency = """
             Front-End Developer (React.js + Next.js + Vue.js) + 
             Python + 
-            Solidity + 
-            Flutter / 
             Financial Analyst (Elliott + MRM + Ichimoku)
         """
 ```
