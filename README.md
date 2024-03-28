@@ -17,7 +17,7 @@ class AliBahaari():
     export const disclosureTarget = () => {
         return (
             <div className='Ali-Bahaari'>
-                <h1>Passionate to Collaborate on Projects!</h1>
+                <h1>Passionate to collaborate on projects!</h1>
                 <p>Check Out: https://alibahaari.github.io</p>
             </div>
         );
