@@ -6,11 +6,9 @@ class AliBahaari():
     def __introduceMyself__(self):
         self.fullName    = 'Ali Bahaari'
         self.proficiency = """
-            I'm a full-stack developer who has expertise in JavaScript, TypeScript, React.js, React Native, Next.js, Redux (Toolkit), Zustand, RTK Query, TanStack Query, AG-Grid, Three.js, GSAP, Jest, React Testing Library, Express.js, NestJS, MySQL, Nginx and Git.
-            Certainly HTML and CSS (SCSS) are included alongside Tailwind CSS, Material UI, Bootstrap, etc.
-            Also I have expertise in Python. Sometimes using Python ends up implementing Neuroscience tasks with PsychoPy software. Also I use Python for web crawling, ethical hacking, financial tools, etc.
-            In addition, I utilize Adobe Illustrator for graphic design such as logos, vectors, icons, etc. Surely, Adobe XD and Figma have been using for UIs.
-            At the end, I analyze financial markets. I use different approaches to do so simultaneously. My favorite one is Elliott.
+            I am a skilled Full Stack and Mobile Developer with extensive experience in various technologies, including frameworks and libraries.
+            My expertise in Python allows me to handle a wide range of tasks, from Neuroscience experiments with PsychoPy software to web crawling, ethical hacking, and financial bots development.
+            I am also passionate about analyzing financial markets, using multiple approaches with a special interest in the Elliott Wave Theory.
         """
 ```
 ```javascript
